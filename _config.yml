@@ -1,0 +1,23 @@
+name: Erik D Valenta
+favicon: null
+layout_spectrum: 0.09560949332080781
+typography_spectrum: 0.8586602329742163
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5313325913157314
+  lightness: 0.1071908576413989
+  saturation: 0.7007206527050585
+  rhythmicContrast: 0.46974631771445274
+purpose: []
