@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://espn.go.com'
   name: ESPN.com
-  favicon: 'http://a.espncdn.com/favicon.ico'
   domain: espn.go.com
+  url: 'http://espn.go.com'
+  favicon: 'http://a.espncdn.com/favicon.ico'
 keywords:
   - manziel
   - brown
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://espn.go.com/nfl/recap?gameId=400791556'
 title: 'Browns vs. Steelers - Game Recap - November 15, 2015 - ESPN'
-datePublished: '2015-11-16T20:53:17.053Z'
-dateModified: '2015-11-16T20:52:22.302Z'
+datePublished: '2015-11-17T01:00:52.274Z'
+dateModified: '2015-11-16T21:35:53.547Z'
 sourcePath: _posts/2015-11-16-browns-vs-steelers-game-recap-november-15-2015-espn.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: false
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
