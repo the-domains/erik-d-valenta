@@ -1,20 +1,4 @@
-name: Erik D Valenta
-favicon: null
-layout_spectrum: 0.2509
 typography_spectrum: 0.56124
-title: 'Marketer, Content Creator and Social Media Relations '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#f41d1b'
@@ -26,4 +10,20 @@ color:
   lightness: 0.125
   saturation: 0.125
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2509
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Erik D Valenta
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: ''
 purpose: []
